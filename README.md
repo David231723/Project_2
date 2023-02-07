@@ -65,19 +65,19 @@ Let's start with Technology stocks from jan 2018 to dec 2022 (Notice that we hav
 
 As we can see in the graph, all the prices of the stocks have behaved in a similarly
 
-![This is an image](.\Tech_3.png)
+![This is an image](images\Tech_3.png)
 
 #### 2.1.2 Health Care
 
 As we can see in the Health Care stocks, they have behaved different but they have ended at the same point
 
-![This is an image](.\Healthcare_3.png)
+![This is an image](images\Healthcare_3.png)
 
 #### 2.1.3 Finance
 
 In the Finance chart, we can see that they have been hit big with coronavirus, but thay have ended up with a little increase of the price
 
-![This is an image](.\Finance_3.png)
+![This is an image](images\Finance_3.png)
 
 ### 2.2 Visualize Top Individual Stock Price Evolution for each sector
 
@@ -91,17 +91,17 @@ As you can see, we have added moving averages of the price for 30,50 and 100 tra
 
 #### 2.2.1 Johnson & Johnson chart
 
-![This is an image](.\jnj_chart.png)
+![This is an image](images\jnj_chart.png)
 
 
 #### 2.2.2 Apple chart
 
-![This is an image](.\apple_chart.png)
+![This is an image](images\apple_chart.png)
 
 
 #### 2.2.3 Visa chart
 
-![This is an image](.\Visa_chart.png)
+![This is an image](images\Visa_chart.png)
 
 
 ## 3. Stock comparison vs S&P500
@@ -114,7 +114,7 @@ Finally, we are going to check the main goal of this project. Explore the return
 
 In this first comparison, we can see that from 2018 to 2023, **the index has outperformed the Johnson & Johnson health care stock**
 
-![This is an image](.\sp_jnj.png)
+![This is an image](images\sp_jnj.png)
 
 
 ### 3.2 Apple
@@ -123,14 +123,14 @@ As you can see in the graph, Apple has (by far!) outperformed the S&P 500 index.
 
     - Apple has x3 each dollar invested, while the index has returned a 45% 
 
-![This is an image](.\sp_apple.png)
+![This is an image](images\sp_apple.png)
 
 
 ### 3.3 Visa
 
 As we can see, visa has outperformed the index from the very beginning
 
-![This is an image](.\sp_visa.png)
+![This is an image](images\sp_visa.png)
 
 
 ## 4. Conclusions
@@ -141,11 +141,11 @@ We can't really say this, since we were looking at some of the best companies in
 
     1. Let's take a look into Celanese "CE". This company is a global chemical and speciality materials company, but is what more improtant for us is that it is a more average company. As shown in the graph, we can see that if you invested on this company 5 years ago, you will have nearly non return, while with the S&P 500 you would have get a 40% return in the same period.
 
-![This is an image](.\sp_ce.png)
+![This is an image](images\sp_ce.png)
  
 
     2. META aka Facebook: This company has been one of the biggest ones in tech on the last decade, but as you can see in meta's graph, the performance has been poor.
 
-![This is an image](.\sp_meta.png)
+![This is an image](images\sp_meta.png)
 
-After this exploration, we can say that maybe the best aproach is combine both so you can diversify your risks and returns.
+After this exploration, we can say that maybe the best aproach is combine both so you can diversify your risks and returns
