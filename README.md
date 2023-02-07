@@ -65,13 +65,13 @@ Let's start with Technology stocks from jan 2018 to dec 2022 (Notice that we hav
 
 As we can see in the graph, all the prices of the stocks have behaved in a similarly
 
-![This is an image](images\Tech_3.png)
+![This is an image](images/Tech_3.png)
 
 #### 2.1.2 Health Care
 
 As we can see in the Health Care stocks, they have behaved different but they have ended at the same point
 
-![This is an image](images\Healthcare_3.png)
+![This is an image](images/Healthcare_3.png)
 
 #### 2.1.3 Finance
 
