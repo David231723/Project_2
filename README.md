@@ -139,12 +139,12 @@ Can we conclude that is is always better to invest in stocks than one of the bes
 
 We can't really say this, since we were looking at some of the best companies in the world. So what if we take to companies that haven't perfomed that good over time? Let's look at two examples? 
 
-    1. Let's take a look into Celanese "CE". This company is a global chemical and speciality materials company, but is what more improtant for us is that it is a more average company. As shown in the graph, we can see that if you invested on this company 5 years ago, you will have nearly non return, while with the S&P 500 you would have get a 40% return in the same period.
+1. Let's take a look into Celanese "CE". This company is a global chemical and speciality materials company, but is what more improtant for us is that it is a more average company. As shown in the graph, we can see that if you invested on this company 5 years ago, you will have nearly non return, while with the S&P 500 you would have get a 40% return in the same period.
 
 ![This is an image](images/sp_ce.png)
  
 
-    2. META aka Facebook: This company has been one of the biggest ones in tech on the last decade, but as you can see in meta's graph, the performance has been poor.
+2. META aka Facebook: This company has been one of the biggest ones in tech on the last decade, but as you can see in meta's graph, the performance has been poor.
 
 ![This is an image](images/sp_meta.png)
 
