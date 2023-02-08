@@ -1,12 +1,19 @@
 # **S&P 500 RETURNS VS MOST RELEVANT STOCKS OF TOP SECTORS**
 
-The goal of this project is study which is the best way to invest. It is putting you money into a index like the S&P 500? Or the best way to go is investing on a leader company of one the best sectors of the US economy? We will find out based on the historical performace of the index & companies by:
 
-    - Create a function to import historical data of the stocks from an API.
-    - Import historical price data from the S&P 500 from a csv dowloaded in Kaggle.
-    - Create chart to explore the price evolution of the main companies in each sector.
-    - Explore if it exist similar patterns between the price evolution of the companies of the same sector.
-    - Finally, we are going to explore the difference of returns between the top stocks vs the S&P 500 index. What would have been the return for each dollar I would have invested?
+
+![This is an image](images/stonks.png)
+
+
+
+
+The goal of this project is study which is the best way to invest your money in the US stock market. It is putting you money into a index like the S&P 500? Or the best way to go is investing on a leader company of one the best sectors of the US economy? We will find out based on the historical performace of the index & companies by:
+
+- Create a function to import historical data of the stocks from an API.
+- Import historical price data from the S&P 500 from a csv dowloaded in Kaggle.
+- Create chart to explore the price evolution of the main companies in each sector.
+- Explore if it exist similar patterns between the price evolution of the companies of the same sector.
+- Finally, we are going to explore the difference of returns between the top stocks vs the S&P 500 index. What would have been the return for each dollar I would have invested?
 
 
 We have used the following as our main sources of data: 
@@ -22,10 +29,10 @@ We have used the following as our main sources of data:
 
 In this first step we have created a function to import the kaggle's csv and apply some transformations to it: 
 
-    - Modify the date column structure so we can match it with the API information.
-    - Renaming columns.
-    - Change datatypes.
-    - Calculate moving avergages of 30,50 and 100 days.
+- Modify the date column structure so we can match it with the API information.
+- Renaming columns.
+- Change datatypes.
+- Calculate moving avergages of 30,50 and 100 days.
 
 
 ### **1.2 Stock price data from API (financialmodelingprep.com)**
@@ -142,9 +149,9 @@ As we can see, visa has outperformed the index from the very beginning
 
 Can we conclude that is is always better to invest in stocks than one of the best indexes like the S&P 500? 
 
-We can't really say this, since we were looking at some of the best companies in the world. So what if we take to companies that haven't perfomed that good over time? Let's look at two examples? 
+We can't really say this, since we were looking at some of the best companies in the world. What if we take to companies that haven't perfomed that good over time? Let's look at two examples:
 
-1. Let's take a look into Celanese "CE". This company is a global chemical and speciality materials company, but is what more improtant for us is that it is a more average company. As shown in the graph, we can see that if you invested on this company 5 years ago, you will have nearly non return, while with the S&P 500 you would have get a 40% return in the same period.
+1. Let's take a look into Celanese "CE". This company is a global chemical and speciality materials company, but is what more improtant for us is that it is a "average" or "normal" company. As shown in the graph, we can see that if you invested on this company 5 years ago, you will have nearly non return, while with the S&P 500 you would have get a 40% return in the same period.
 
 ![This is an image](images/sp_ce.png)
  
@@ -153,4 +160,8 @@ We can't really say this, since we were looking at some of the best companies in
 
 ![This is an image](images/sp_meta.png)
 
-After this exploration, we can say that maybe the best aproach is combine both so you can diversify your risks and returns
+### **Final takeaways**
+After this exploration, we can say that maybe the best (and safest) aproach is combine both so you can diversify your risks and returns, which helps to reduce the impact of market volatility on your portfolio. By allocating some of your investments in the S&P 500 index, you can benefit from the broad market exposure and potentially achieve a good return. On the other hand, investing in high-quality stocks provides an opportunity for higher returns but also carries a higher level of risk. By diversifying your investments between the two, you can balance the risk and return and improve the overall performance of your portfolio.
+
+
+![This is an image](images/wolf.jpg)
